@@ -83,7 +83,7 @@ To deploy this assistant:
 
 ---
 
-### Graduate/Student Notes 🎓
+### Notes 
 *This project demonstrates the power of AI-to-SQL agents. By decoupling natural language from raw SQL, we create accessible data management tools for everyone.*
 
 **Happy Tasking!** 🚀
