@@ -1,0 +1,6 @@
+langchain
+dotenv
+langchain-groq
+streamlit
+langchain-community
+langgraph
